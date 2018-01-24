@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Web project with html, css files.
+Web project with html, css, js files.
 
 ## Purpose
 
